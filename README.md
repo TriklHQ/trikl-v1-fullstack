@@ -4,5 +4,9 @@ Trikl is like on-chain Patreon and growing continuously to become more. We solve
 
 Please find the link to our code repositories: 
 
-- Link to frontend repo: https://github.com/TriklHQ/trikl-v1 
+- Link to frontend repo: 
+  - Submitted Before Deadline - https://github.com/TriklHQ/trikl-v1/tree/150fc3bcdd24f7a8515f09f8a2966863b26c7588 
+  - Latest - https://github.com/TriklHQ/trikl-v1
 - Link to backend repo: https://github.com/TriklHQ/Trikl_V2-onchain
+
+*Note: We're continuously working on this idea and planning to launch this to the general public. Hence, you might find some updates in the latest repository. The above link points to the working directory (on Testnet - Polygon Mumbai) while we submitted for the hackathon (before the deadline).*
